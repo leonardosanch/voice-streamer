@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Start>
+        <Stream url="wss://3019-2800-e2-1a00-8455-ee3e-7289-9a08-b582.ngrok-free.app/ws/audio/"/>
+    </Start>
+</Response>
