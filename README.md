@@ -1,4 +1,3 @@
-Tienes razón, parece que el contenido actualizado del README no se está mostrando correctamente en nuestra conversación. Voy a compartir el README completo para que puedas verificar todas las secciones, incluyendo la explicación detallada de archivos que añadí.
 
 ````markdown
 # Voice Streamer: Bidirectional Media Streams con Twilio
