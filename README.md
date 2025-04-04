@@ -2,7 +2,7 @@
 ````markdown
 # Voice Streamer: Bidirectional Media Streams con Twilio
 
-![VoiceFlip](https://github.com/leonardosanch/voice-streamer/raw/main/static/voiceflip-logo.png)
+
 
 Este proyecto implementa una aplicación de streaming de audio bidireccional utilizando Twilio Media Streams. Permite recibir llamadas telefónicas, procesar el audio y devolver respuestas de audio generadas por ElevenLabs en tiempo real.
 
